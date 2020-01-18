@@ -1,0 +1,15 @@
+{C:/altera/CPEN 211 labs/lab1/lab1_top.v} {1 {vlog -work work -stats=none {C:/altera/CPEN 211 labs/lab1/lab1_top.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lab1_top
+
+Top level modules:
+	lab1_top
+
+} {} {}} {C:/altera/CPEN 211 labs/lab1tb/lab1_top_tb.v} {1 {vlog -work work -stats=none {C:/altera/CPEN 211 labs/lab1tb/lab1_top_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lab1_top_tb
+
+Top level modules:
+	lab1_top_tb
+
+} {} {}}

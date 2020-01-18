@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vlab1_top
+!s110 1536701703
+!i10b 1
+!s100 L]z8?Ok4RI5^c1oB]h<J93
+IA0f`RZ5NL?i5@4F:76aQb0
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dC:/altera/CPEN 211 labs/lab1
+w1536550124
+8C:/altera/CPEN 211 labs/lab1/lab1_top.v
+FC:/altera/CPEN 211 labs/lab1/lab1_top.v
+L0 2
+Z2 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1536701703.402000
+!s107 C:/altera/CPEN 211 labs/lab1/lab1_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/altera/CPEN 211 labs/lab1/lab1_top.v|
+!i113 1
+Z3 o-work work
+vlab1_top_tb
+!s110 1536701704
+!i10b 1
+!s100 2j3fVo:]dlFza@ZDIZdOK1
+IQB=l[a@JeSoG3aW?ME[3?0
+R0
+R1
+w1536550360
+8C:\altera\CPEN 211 labs\lab1tb\lab1_top_tb.v
+FC:\altera\CPEN 211 labs\lab1tb\lab1_top_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1536701704.357000
+!s107 C:\altera\CPEN 211 labs\lab1tb\lab1_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\altera\CPEN 211 labs\lab1tb\lab1_top_tb.v|
+!i113 1
+R3
